@@ -1,2 +1,2 @@
-# bozo
+# Neighsofbowl
 slackbot something or other
